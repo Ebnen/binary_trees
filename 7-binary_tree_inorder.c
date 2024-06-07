@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_preorder - function that checks if a node is a root
+ * binary_tree_inorder - function that checks if a node is a root
  * @tree: pointer that point to the root
  * @func: a function pointer that point
  *
